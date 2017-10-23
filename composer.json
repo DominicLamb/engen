@@ -1,0 +1,11 @@
+{
+  "require-dev": {
+    "pds/skeleton": "@stable",
+    "phpunit/phpunit": "^6.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "DominicLamb\\EntityGenerator\\": "src/"
+    }
+  }
+}

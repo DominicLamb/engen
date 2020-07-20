@@ -1,5 +1,5 @@
 # HIGHLY EXPERIMENTAL
-This utility is under active development. It currently doesn't even work properly. 
+This utility is unfinished and unmaintained. It currently doesn't even work properly. 
 
 Do not use this in a real project.
 
